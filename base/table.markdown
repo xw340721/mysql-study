@@ -109,3 +109,7 @@
 	*内联货匹配俩张表中相互的记录.
 	*外联会匹配其他不能匹配的记录. 
 * UNICON 和 UNICON ALl 区别在于UNICON 会把UNICON ALL 进行一次DISTINCT
+
+##DLC语句
+>DLC语句[Data Control Language]
+
