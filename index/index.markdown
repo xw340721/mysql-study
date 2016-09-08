@@ -9,3 +9,8 @@
 	index_col_name:
 		col_name[(length)][ASC|DESC];
 ```	
+
+* drop index
+```sql
+	DROP INDEX index_name on tb1_name;
+```	
