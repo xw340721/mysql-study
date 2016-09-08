@@ -14,3 +14,4 @@
 ```sql
 	DROP INDEX index_name on tb1_name;
 ```	
+
